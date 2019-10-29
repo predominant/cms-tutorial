@@ -1,0 +1,5 @@
+worker_processes = "auto"
+port = 80
+
+[events]
+worker_connections = 512
